@@ -12,7 +12,7 @@ Starting with zero experience, this journey will focus on learning the fundament
 
 This repo contains:
 
-*   Journal: My daily/regular log of what I'm learning, the challenges I'm facing, and my "aha!" moments. This is the core of this repository and is located in [Journal.md](Journal.md).
+*   Journal: My daily/regular log of what I'm learning, the challenges I'm facing, and my "aha!" moments. 
 *   Learning Resources: Links to tutorials, courses, articles, and other helpful resources.
 *   Code Snippets (Eventually): As I write code, I'll store useful snippets here. This section will grow!
 *   Project Ideas (Eventually): As I learn more, I'll brainstorm project ideas. This section will evolve.
